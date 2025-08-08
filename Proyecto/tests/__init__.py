@@ -1,0 +1,1 @@
+# Tests para el sistema de catálogo del museo
