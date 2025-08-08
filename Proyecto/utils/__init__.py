@@ -1,1 +1,0 @@
-# Utilidades para el sistema de catálogo del museo
